@@ -1,0 +1,19 @@
+{
+    "ROS2.distro": "humble",
+    "python.defaultInterpreterPath": "/usr/bin/python3",
+    "python.autoComplete.extraPaths": [
+        "${workspaceFolder}/src/FTServo_Python",
+        "/home/yohku/projects/SO101/build/SO101",
+        "/home/yohku/projects/SO101/install/SO101/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "${workspaceFolder}/src/FTServo_Python",
+        "/home/yohku/projects/SO101/build/SO101",
+        "/home/yohku/projects/SO101/install/SO101/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "cmake.sourceDirectory": "/home/yohku/projects/SO101/src/so101_driver_cpp"
+}
